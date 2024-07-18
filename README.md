@@ -37,6 +37,3 @@ I'm Patrick Owusu Bofah, an incoming freshman at Grambling State University, pas
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-owusu-bofah-7b2a761ab) for collaborations and discussions on data science, machine learning, and cybersecurity.
 
----
-
-Feel free to customize this README further with additional details or sections as per your preferences and the specifics of each project's implementation.
