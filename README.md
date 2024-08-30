@@ -32,7 +32,7 @@ Welcome to the OIBSIP repository! This repository contains a collection of data 
 
 
 ## About Me
-I'm Patrick Owusu Bofah, a student at Grambling State University, currently studying computer science and cybersecurity. These projects represent my journey into data science and machine learning, showcasing my skills and learnings from the internship at Oasis Infobyte.
+I'm Patrick Owusu Bofah, a student at Grambling State University, currently studying Computer Science and Mathematics & Physics. These projects represent my journey into data science and machine learning, showcasing my skills and learnings from the internship at Oasis Infobyte.
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-owusu-bofah-7b2a761ab) for collaborations and discussions on data science, machine learning, and cybersecurity.
